@@ -1,0 +1,19 @@
+p {
+    font-family: Monserat;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 400px;
+    text-align: center;
+}
+.c1{
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.c2{
+    font-size: 25px;
+}
+.c3{
+    font-size: 25px;
+    text-decoration: underline;
+}

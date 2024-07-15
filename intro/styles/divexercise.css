@@ -1,0 +1,91 @@
+.div1{
+    width: 270px;
+    display: block;
+    background-color: black;
+    padding: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.p1{
+    margin: 0;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.p2{
+    margin: 0;
+    color: rgb(192, 192, 192);
+    font-family: Arial;
+    font-size: 12px;
+}
+
+.div-cat{
+    display: inline-block;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgb(49, 49, 49);
+    margin: 10px;
+    vertical-align: top;
+}
+.img-cat{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+}
+p{
+    margin: 0;
+}
+.cat-name{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.cat-friends{
+    font-family: Arial;
+    font-size: 12px;
+    margin-bottom: 15px;
+
+}
+.cat-button{
+    font-family: Arial;
+    font-size: 15px;
+    background-color: rgb(0, 102, 255);
+    color: white;
+    border: none;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.aussen{
+    margin-top: 10px;
+    background-color: white;
+    display: block;
+    margin-bottom: 150px;
+}
+
+.nested-div{
+   padding: 10px;
+}
+.row1{
+    display: inline-block;
+    width: 100px;
+}
+.row2{
+    display: inline-block;
+    width: 200px; 
+    vertical-align: top;
+}
+.profile-icon{
+    width: 100%;
+    border-radius: 50px;
+}
+p{
+    font-size: 20px;
+}
